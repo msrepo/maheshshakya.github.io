@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Mahesh Shakya"
 title_separator          : "-"
 name                     : &name "Mahesh Shakya"
 description              : &description "personal description"
@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Mahesh Shakya"
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   bio              : "Applied Mathematics, Medical Image Informatics, Machine Learning"
   # location         : "Location"
-  employer         : Nepal Applied Mathematics and Informatics Institute for research
+  employer         : NAAMII, Nepal
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=dzcUdHQAAAAJ"
   email            :
